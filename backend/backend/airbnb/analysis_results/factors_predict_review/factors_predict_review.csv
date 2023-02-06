@@ -1,0 +1,7 @@
+feature,feature_importance_mean,feature_importance_std
+host_is_superhost,0.01206619,0.0019141173
+price_per_person,0.009419088,0.00039877876
+host_response_time,0.00917368,0.0018893171
+reviews_per_month,0.008999118,0.0012354179
+host_time_on_airbnb,0.008714693,0.0010943047
+

@@ -1,0 +1,49 @@
+Our project is separate into two parts, backend is to process the data for analysis and the frontend is for user interface
+
+
+As you can see in this RUNNING.txt, the command lines required to run this project are complicated. Therefore, we hereby recorded an additional video that shows exactly how to run this project from scratch. If you have trouble running the command line in RUNNING.txt, you can refer to this video!
+The link of the video: https://www.youtube.com/watch?v=3I9nGdPB_Sg
+
+----------------------------------------------------------------------------------------------------------------------
+RUN backend(Django): (we assumed python3 is installed, if not, install python and pip before starting)
+0. make sure your pip is not the old version.
+
+1. cd into the backend dir from the root dir
+cd backend
+
+2. create a virtual environment:
+virtualenv --python=python3 env
+(if there isn't a virtualenv command please install the virtual environment first)
+
+3. activate the virtual environment:
+. env/bin/activate
+
+4. install the libraries
+pip3 install -r requirements.txt
+
+5. cd into the backend dir from the current(/backend) dir
+cd backend
+
+6. make migrations for database and run the backend
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+
+now you can view the backend with the correspond path and port
+
+----------------------------------------------------------------------------------------------------------------------
+RUN frontend(VUE):
+0. Make sure you have an up-to-date version of Node.js installed (https://nodejs.org/en/)
+check your backend is run on the localhost:8000 port, if not, change the 'axios.defaults.baseURL' variable(/frontend/airbnb/src/main.js) to the correspond port
+
+1. cd into the airbnd dir from the root dir
+cd frontend/airbnb
+
+2. install the dependencies
+npm install
+
+
+3. run the frontend
+npm run serve
+
+now you can view the frontend with the correspond path and port

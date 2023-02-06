@@ -1,0 +1,5 @@
+room_type,avg_overall,avg_accuracy,avg_cleanliness,avg_checkin,avg_communication,avg_location,avg_value
+Hotel room,4.77,4.85,4.86,4.78,4.76,4.77,4.66
+Entire home/apt,4.71,4.8,4.73,4.85,4.85,4.83,4.69
+Private room,4.62,4.75,4.64,4.82,4.81,4.75,4.67
+Shared room,4.38,4.63,4.45,4.74,4.69,4.68,4.56

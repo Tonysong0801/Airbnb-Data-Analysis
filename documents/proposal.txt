@@ -1,0 +1,25 @@
+Technologies To Be Used:[jieyuan][kevin][tony][calla]
+In this project, we will use PySpark for data preparation, cleaning and ETL. The data analysis will present in a website with Django as the framework. On the other hand, we will use some Python libraries like Pandas, Numpy, matplotlib and sklearn to analyze the data. Finally, the result will present by vue.js in frontend. More tools will add if required.
+
+Topic we chose(dataset):[jieyuan]
+We are going to analysis the Airbnb data[http://insideairbnb.com/get-the-data/]. We find that it is not very easy to find a temperary house in Canada, there are too many choices, for example, house with different price and location. Although there are some apps like Airbnb has already filtered and sorted different types of houses, finding a house is still time-consuming. Thus we are trying to use some skills of data analysis to make everything easier. We plan to use some different analysis to find out the best house in a specific area with the Airbnb dataset.
+
+Analysis we are going to do:[kevin][tony][calla]
+- analytics of review scores and comments [Calla]
+- analyze based on room types and room number [Kevin]
+- analyze based on whether has licenses [Kevin]
+- analyze based on area or neighbourhood [Kevin]
+- Analyze how prices change over month [tony]
+- Analyze how prices change over weekdays&weekend [tony]
+- Analyze how prices change over longitude&latitude [tony]
+- Analyze how the average price of different areas [tony]
+- Analyze how the average price of different room types [tony]
+
+Product:[kevin]
+Travellers can easily find out a convenient place to stay in Airbnb. Also, it gives a best platform for many to gain profit by submitting the properties onsite. However, there are thousands of available with differernt prices. We aim to find out the factors that affect the price. This allow the landlord to maximum their profit with listing the most important features. Moreover, customers will get a more affordable place with features they prefer.
+
+
+Possible advanced feature:[kevin][tony][calla]
+- filter and recommend listings based on reviews
+- how different factors affect its price [Kevin]
+

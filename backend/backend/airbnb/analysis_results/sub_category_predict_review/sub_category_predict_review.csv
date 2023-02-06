@@ -1,0 +1,7 @@
+feature,feature_importance_mean,feature_importance_std
+review_scores_accuracy,0.39971322,0.038995296
+review_scores_value,0.31425592,0.02333308
+review_scores_cleanliness,0.07260188,0.011781039
+review_scores_communication,0.07255285,0.008362097
+review_scores_checkin,0.02027318,0.0035398048
+review_scores_location,0.011847833,0.0004616034

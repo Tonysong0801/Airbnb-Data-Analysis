@@ -1,0 +1,19 @@
+Date: 10/17/2022
+Time: 7:00pm - 8:00pm
+Content: Analyse some dataset on the internet, discussed about the pros and cons of those data and decided the topic and dataset we will use in this project.
+Attendence: Jieyuan, Tongy, Kevin, Calla
+
+Date: 10/19/2022
+Time: 7:00pm - 7:45pm
+Content: Brainstormed the airbnb dataset and discussed about all the possible perspect of the data. Assigned tasks for each person.
+Attendence: Jieyuan, Tony, Kevin, Calla
+
+Date: 10/22/2022
+Time: 7:00pm - 7:45pm
+Content: Working on proposal, discuss more detailed analysis we are going to work on.
+Attendence: Jieyuan, Tony, Kevin, Calla
+
+Date: 10/28/2022
+Time: 7:00pm - 7:30pm
+Content: Checking progress.
+Attendence: Jieyuan, Tony, Kevin, Calla

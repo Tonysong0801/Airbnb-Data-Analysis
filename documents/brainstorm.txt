@@ -1,0 +1,33 @@
+Dataset
+http://insideairbnb.com/get-the-data/
+
+All area in Canada
+
+Data Analyse
+Users
+
+
+Rooms
+
+
+Reviews
+
+
+
+Format:
+  Input: listings.csv
+  Output: ---.csv
+Example:
+  
+  
+  
+Working Distribution:
+Jieyuan:
+
+Kevin:
+
+Tony:
+
+Calla:
+
+ 
